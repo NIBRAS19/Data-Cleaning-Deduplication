@@ -1,0 +1,71 @@
+Email	City	FirstName	LastName	Phone	Country	ZipCode	Street
+ anna.garcia@yahoo.com 	Paris	Anna	Garcia	0636302029	Germany	47344	Place de la République 52
+jean.bernard@gmail.com	Paris	Jean	Bernard	+49626382690	Germany	62720	Rue de la Paix 179
+luc.petit@yahoo.com	Paris	Luc	Petit	0044687166020	UK	91550	Place de la République 122
+paul.brown@hotmail.com	Berlin	Paul	Brown	0671149758	Italy	77486	Place de la République 85
+ paul.petit@yahoo.com 	Toulouse	Paul	Petit	+49639632531	Germany	99911	Avenue Victor Hugo 23
+sophie.garcia@yahoo.com	Madrid	Sophie	Garcia	0611053180	Italy	44292	Avenue Victor Hugo 110
+luc.durand@yahoo.com	Bordeaux	Luc	Durand	0617102154	Germany	96292	Chemin Vert 50
+sophie.brown@hotmail.com	Rome	Sophie	Brown	0039619232885	Italy	99005	Chemin Vert 195
+marie.brown@gmail.com	Bordeaux	Marie	Brown	+34693599682	Spain	60122	Chemin Vert 118
+claire.durand@gmail.com	BORDEAUX	CLAIRE	DURAND	0696281276	UK	82896	AVENUE VICTOR HUGO 102
+ robert.petit@hotmail.com 	LYON	ROBERT	PETIT	+44610188634	UK	48637	AVENUE VICTOR HUGO 146
+alice.brown@yahoo.com	Lyon	Alice	Brown	0033614305488	France	86377	Chemin Vert 55
+sophie.petit@hotmail.com	Toulouse	Sophie	Petit	0044675332765	UK	16330	Rue de la Paix 129
+claire.rossi@hotmail.com	LYON	CLAIRE	ROSSI	0044618044196	UK	99975	CHEMIN VERT 15
+ anna.muller@yahoo.com 	Bordeaux	Anna	Muller	0621639477	France	16534	Avenue Victor Hugo 154
+ john.dupont@gmail.com 	Madrid	John	Dupont	0615186122	UK	69229	Avenue Victor Hugo 100
+ john.rossi@mail.com 	Bordeaux	John	Rossi	0689186901	Italy	50324	Chemin Vert 80
+ sophie.petit@hotmail.com 	PARIS	SOPHIE	PETIT	0049658110747	Germany	16495	RUE DE LA PAIX 109
+claire.garcia@hotmail.com	Paris	Claire	Garcia	0033662285430	France	31643	Avenue Victor Hugo 149
+anna.rossi@mail.com	NICE	ANNA	ROSSI	0646128760	Italy	62473	PLACE DE LA RÉPUBLIQUE 101
+robert.smith@yahoo.com	Bordeaux	Robert	Smith	+34620968169	Spain	89865	Avenue Victor Hugo 158
+paul.durand@hotmail.com	Nice	Paul	Durand	+34605083998	Spain	13810	Avenue Victor Hugo 148
+ anna.bernard@gmail.com 	LYON	ANNA	BERNARD	0044665363031	UK	85614	AVENUE VICTOR HUGO 6
+ claire.garcia@mail.com 	ROME	CLAIRE	GARCIA	0034606066094	Spain	89565	AVENUE VICTOR HUGO 89
+luc.garcia@gmail.com	Rome	Luc	Garcia	0044619900379	UK	43070	Avenue Victor Hugo 28
+alice.petit@yahoo.com	Toulouse	Alice	Petit	0671422194	Spain	57813	Boulevard Saint-Michel 173
+robert.smith@hotmail.com	Marseille	Robert	Smith	+39698868405	Italy	69993	Avenue Victor Hugo 66
+luc.dupont@gmail.com	Lyon	Luc	Dupont	0601465977	UK	70558	Place de la République 78
+ jean.rossi@hotmail.com 	Toulouse	Jean	Rossi	0675126530	France	52359	Place de la République 42
+ paul.bernard@gmail.com 	BORDEAUX	PAUL	BERNARD	+34653777753	Spain	44688	CHEMIN VERT 179
+john.durand@mail.com	London	John	Durand	0656887599	Spain	17632	Chemin Vert 69
+sophie.durand@hotmail.com	MARSEILLE	SOPHIE	DURAND	0049638834206	Germany	93581	PLACE DE LA RÉPUBLIQUE 181
+marie.muller@mail.com	Rome	Marie	Muller	0033610260922	France	67692	Rue de la Paix 130
+claire.durand@mail.com	Lyon	Claire	Durand	0039665483007	Italy	39772	Boulevard Saint-Michel 86
+claire.petit@hotmail.com	Rome	Claire	Petit	0033610686701	France	14185	Boulevard Saint-Michel 92
+alice.dupont@hotmail.com	PARIS	ALICE	DUPONT	0644462680	Spain	69752	BOULEVARD SAINT-MICHEL 162
+ robert.martin@gmail.com 	London	Robert	Martin	0044615141322	UK	23087	Avenue Victor Hugo 188
+alice.martin@yahoo.com	BORDEAUX	ALICE	MARTIN	0605230956	Germany	85633	PLACE DE LA RÉPUBLIQUE 70
+anna.petit@gmail.com	TOULOUSE	ANNA	PETIT	+39638499695	Italy	99673	CHEMIN VERT 101
+paul.martin@mail.com	Bordeaux	Paul	Martin	0629471982	Germany	60428	Rue de la Paix 167
+sophie.durand@yahoo.com	Toulouse	Sophie	Durand	+39695864007	Italy	81526	Boulevard Saint-Michel 151
+john.bernard@hotmail.com	NICE	JOHN	BERNARD	0603188941	France	15827	CHEMIN VERT 73
+john.rossi@mail.com	Berlin	John	Rossi	0049652809721	Germany	72283	Boulevard Saint-Michel 143
+ jean.garcia@mail.com 	London	Jean	Garcia	0614485096	Germany	47658	Avenue Victor Hugo 172
+ anna.petit@hotmail.com 	LYON	ANNA	PETIT	0044657277255	UK	61796	AVENUE VICTOR HUGO 159
+paul.dupont@hotmail.com	BERLIN	PAUL	DUPONT	0039624006570	Italy	61632	AVENUE VICTOR HUGO 88
+paul.muller@gmail.com	NICE	PAUL	MULLER	0648013382	Spain	22977	BOULEVARD SAINT-MICHEL 191
+sophie.smith@hotmail.com	London	Sophie	Smith	0049627481886	Germany	72715	Chemin Vert 9
+ paul.durand@mail.com 	Marseille	Paul	Durand	0689248040	UK	32742	Place de la République 124
+anna.dupont@mail.com	MARSEILLE	ANNA	DUPONT	+34641859737	Spain	78662	RUE DE LA PAIX 23
+marie.brown@mail.com	Madrid	Marie	Brown	0044604660368	UK	57032	Rue de la Paix 104
+robert.brown@gmail.com	London	Robert	Brown	+44683609709	UK	85649	Avenue Victor Hugo 66
+ john.brown@hotmail.com 	Paris	John	Brown	0033607750598	France	95771	Chemin Vert 77
+claire.petit@hotmail.com	Marseille	Claire	Petit	0044642520099	UK	32522	Boulevard Saint-Michel 191
+paul.smith@gmail.com	Berlin	Paul	Smith	+44693435406	UK	52188	Rue de la Paix 183
+sophie.muller@gmail.com	LONDON	SOPHIE	MULLER	0049644108626	Germany	82460	PLACE DE LA RÉPUBLIQUE 29
+marie.dupont@gmail.com	Berlin	Marie	Dupont	+49659520930	Germany	13014	Avenue Victor Hugo 144
+ alice.garcia@mail.com 	Paris	Alice	Garcia	0044688066277	UK	28252	Avenue Victor Hugo 130
+john.smith@gmail.com	ROME	JOHN	SMITH	+49663760136	Germany	41794	PLACE DE LA RÉPUBLIQUE 15
+jean.smith@gmail.com	London	Jean	Smith	+33625280892	France	20286	Place de la République 132
+paul.bernard@gmail.com	Paris	Paul	Bernard	0049668856318	Germany	63261	Boulevard Saint-Michel 167
+paul.brown@yahoo.com	ROME	PAUL	BROWN	0049652709485	Germany	21588	CHEMIN VERT 43
+robert.petit@hotmail.com	London	Robert	Petit	+34675966299	Spain	91626	Chemin Vert 74
+jean.dupont@yahoo.com	Lyon	Jean	Dupont	+33650860602	France	45435	Boulevard Saint-Michel 29
+claire.brown@yahoo.com	NICE	CLAIRE	BROWN	0049616136032	Germany	46323	AVENUE VICTOR HUGO 43
+ claire.dupont@yahoo.com 	Marseille	Claire	Dupont	0659542301	Spain	79781	Rue de la Paix 5
+paul.garcia@hotmail.com	Lyon	Paul	Garcia	0039675800880	Italy	37817	Rue de la Paix 1
+luc.smith@hotmail.com	Lyon	Luc	Smith	0044605467328	UK	38038	Rue de la Paix 89
+luc.durand@yahoo.com	MADRID	LUC	DURAND	+44663339451	UK	52638	RUE DE LA PAIX 29
+ robert.bernard@mail.com 	Nice	Robert	Bernard	+44627120638	UK	65822	Rue de la Paix 175
